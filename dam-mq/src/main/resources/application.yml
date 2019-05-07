@@ -1,0 +1,16 @@
+
+spring:
+  main:
+    allow-bean-definition-overriding: true
+#dubbo:
+#  scan:
+#    base-packages: com.dam.mq.service
+#  protocol:
+#    name: dubbo
+#    port: 9123
+#  registry:
+#    address: zookeeper://192.168.1.220:2181
+#    check: false
+dam:
+  port: 11001
+  registry-center: 192.168.1.220:2181
