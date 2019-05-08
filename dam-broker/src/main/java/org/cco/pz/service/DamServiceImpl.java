@@ -1,4 +1,4 @@
-package com.dam.mq.service;
+package org.cco.pz.service;
 
 import org.apache.dubbo.config.annotation.Service;
 import org.springframework.stereotype.Component;

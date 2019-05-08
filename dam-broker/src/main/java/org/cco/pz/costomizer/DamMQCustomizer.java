@@ -1,4 +1,4 @@
-package com.dam.mq.costomizer;
+package org.cco.pz.costomizer;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.web.server.WebServerFactoryCustomizer;

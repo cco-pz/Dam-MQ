@@ -1,7 +1,6 @@
-package com.dam.mq;
+package org.cco.pz;
 
-import com.dam.mq.costomizer.DamMQCustomizer;
-import org.apache.dubbo.config.spring.context.annotation.EnableDubbo;
+import org.cco.pz.costomizer.DamMQCustomizer;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 import org.springframework.boot.context.properties.EnableConfigurationProperties;
 

@@ -1,4 +1,4 @@
-package com.dam.mq.service;
+package org.cco.pz.service;
 
 /**
  * @author pujw

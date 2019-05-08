@@ -1,4 +1,4 @@
-package com.dam.mq.costomizer;
+package org.cco.pz.costomizer;
 
 import lombok.Data;
 import org.springframework.boot.context.properties.ConfigurationProperties;
