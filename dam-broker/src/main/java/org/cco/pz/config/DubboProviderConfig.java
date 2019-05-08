@@ -14,7 +14,7 @@ import org.springframework.context.annotation.Configuration;
 import javax.annotation.Resource;
 
 @Configuration
-@DubboComponentScan(basePackages = "org.cco.pz.mq.service")
+@DubboComponentScan(basePackages = "org.cco.pz.service")
 @EnableDubboConfig
 public class DubboProviderConfig {
 
