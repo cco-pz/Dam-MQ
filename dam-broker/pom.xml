@@ -4,7 +4,7 @@
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <parent>
         <artifactId>dam</artifactId>
-        <groupId>com.dam</groupId>
+        <groupId>org.cco.pz</groupId>
         <version>1.0-SNAPSHOT</version>
     </parent>
     <modelVersion>4.0.0</modelVersion>
@@ -13,7 +13,7 @@
 
     <description>Dam-mq的队列主体.</description>
 
-    <groupId>com.dam</groupId>
+    <groupId>org.cco.pz</groupId>
     <packaging>jar</packaging>
 
     <properties>
@@ -205,6 +205,11 @@
             <groupId>org.projectlombok</groupId>
             <artifactId>lombok</artifactId>
             <version>1.18.6</version>
+        </dependency>
+        <dependency>
+            <groupId>org.cco.pz</groupId>
+            <artifactId>dam-api</artifactId>
+            <version>1.0-SNAPSHOT</version>
         </dependency>
     </dependencies>
 

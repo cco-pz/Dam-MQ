@@ -4,7 +4,7 @@ spring:
     allow-bean-definition-overriding: true
 #dubbo:
 #  scan:
-#    base-packages: com.dam.mq.service
+#    base-packages: org.cco.pz.mq.service
 #  protocol:
 #    name: dubbo
 #    port: 9123
